@@ -1,0 +1,88 @@
+[
+  {
+    "groupId": "matheuzinho",
+    "jogadores": [
+      {
+        "id": "556481310187@s.whatsapp.net",
+        "grupo": "120363047549719506@g.us",
+        "sala": "770667912"
+      },
+      {
+        "id": "558394060697@s.whatsapp.net",
+        "grupo": "120363047549719506@g.us",
+        "sala": "770667912"
+      },
+      {
+        "id": "5514998622041@s.whatsapp.net",
+        "grupo": "120363047549719506@g.us",
+        "sala": "770667912"
+      },
+      {
+        "id": "558581314543@s.whatsapp.net",
+        "grupo": "120363047549719506@g.us",
+        "sala": "770667912"
+      },
+      {
+        "id": "558393604019@s.whatsapp.net",
+        "grupo": "120363047549719506@g.us",
+        "sala": "770667912"
+      },
+      {
+        "id": "5527999071518@s.whatsapp.net",
+        "grupo": "120363047549719506@g.us",
+        "sala": "770667912"
+      },
+      {
+        "id": "557598821369@s.whatsapp.net",
+        "grupo": "120363047549719506@g.us",
+        "sala": "770667912"
+      },
+      {
+        "id": "558198479534@s.whatsapp.net",
+        "grupo": "120363047549719506@g.us",
+        "sala": "770667912"
+      }
+    ]
+  },
+  {
+    "groupId": "120363132562172546@g.us",
+    "salas": []
+  },
+  {
+    "groupId": "120363047549719506@g.us",
+    "salas": [
+      {
+        "UID": "770667912",
+        "dono": "556481310187@s.whatsapp.net",
+        "criado": "10:19:14",
+        "tempo": 60,
+        "quant": {
+          "impostores": 1,
+          "anjos": 0,
+          "jogadores": 10,
+          "votação": 5,
+          "KILLcooldow": 4,
+          "SABOcooldow": 4,
+          "EXPcooldow": 4,
+          "REUcooldow": 10,
+          "VOTcooldow": 5
+        },
+        "start": false,
+        "partida": {
+          "sala": [
+            "556481310187@s.whatsapp.net",
+            "558394060697@s.whatsapp.net",
+            "5514998622041@s.whatsapp.net",
+            "558581314543@s.whatsapp.net",
+            "558393604019@s.whatsapp.net",
+            "5527999071518@s.whatsapp.net",
+            "557598821369@s.whatsapp.net",
+            "558198479534@s.whatsapp.net"
+          ],
+          "jogo": [],
+          "vote": []
+        }
+      }
+    ]
+  }
+]
